@@ -1,7 +1,7 @@
 (footprint "TP4056" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 -15.7 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -15.7 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp 44ffb4e3-7f05-4d7e-b3c1-37354246d678)
   )

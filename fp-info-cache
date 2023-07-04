@@ -1,4 +1,4 @@
-22605951560091602
+22616084997439784
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93107,6 +93107,27 @@ BLE Micro Pro
 26
 26
 Ultramarine-2
+Jumper 3pin
+
+
+0
+4
+3
+Ultramarine-2
+LED1608_reversible
+
+
+0
+4
+2
+Ultramarine-2
+MF-NSMF
+
+
+0
+2
+2
+Ultramarine-2
 MJ-4PP-9
 
 
@@ -93120,6 +93141,20 @@ MX-Kailh
 0
 7
 2
+Ultramarine-2
+Micro_USB_Charging
+
+
+0
+6
+2
+Ultramarine-2
+R_variable
+
+
+0
+3
+3
 Ultramarine-2
 SK6812-mini_reversible
 
@@ -93141,6 +93176,13 @@ TP4056
 0
 6
 6
+Ultramarine-2
+Tactlie_Switch
+
+
+0
+2
+2
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
