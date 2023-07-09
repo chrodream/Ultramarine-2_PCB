@@ -1,0 +1,13 @@
+(footprint "PTH_Flex_LED" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -7.215 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 67adbc5c-1758-4dc6-a46f-c33cf41caeb7)
+  )
+  (fp_text value "PTH_Flex_LED" (at 0 -5.715 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 01b01953-4aa2-44bb-a179-e9adfaf45a7b)
+  )
+  (pad "1" thru_hole oval (at 0 0) (size 0.7 1.6) (drill oval 0.3 1.2) (layers "*.Cu" "*.Mask") (tstamp d7209b19-82fe-4479-8181-7672cc189547))
+)

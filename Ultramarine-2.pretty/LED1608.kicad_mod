@@ -1,0 +1,28 @@
+(footprint "LED1608" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -10.16 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 829f0935-3404-4d63-a019-3793f287e231)
+  )
+  (fp_text value "LED1608" (at 0 -8.66 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ff28aaed-ace4-4c00-a2bd-26656533c9c2)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -7.16 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 74d3f200-0f04-4cbd-be98-62516630f0bd)
+  )
+  (fp_poly
+    (pts
+      (xy 0.1 -0.2)
+      (xy 0.1 0.2)
+      (xy -0.2 0)
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.SilkS") (tstamp dab59ade-3af4-4b0e-8ce1-de30df6a8a94))
+  (pad "1" smd roundrect (at -0.825 0) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (thermal_bridge_angle 45) (tstamp b3a6e16b-1e71-46f4-84c4-be396147037b))
+  (pad "2" smd roundrect (at 0.825 0) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (thermal_bridge_angle 45) (tstamp 96128764-062f-407c-abb2-70d142b6a49d))
+)

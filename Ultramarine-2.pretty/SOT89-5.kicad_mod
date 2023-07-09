@@ -1,0 +1,12 @@
+(footprint "SOT89-5" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -8.65 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp a39d1d76-5fd0-4802-96ce-9d16e95a3f8d)
+  )
+  (fp_text value "SOT89-5" (at 0 -7.15 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ab177623-0447-4433-a746-92350555cf2e)
+  )
+)

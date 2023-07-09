@@ -1,4 +1,4 @@
-22616085169349226
+22627912320258504
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93107,6 +93107,20 @@ BLE Micro Pro
 26
 26
 Ultramarine-2
+Battery
+
+
+0
+2
+2
+Ultramarine-2
+EC12
+
+
+0
+7
+6
+Ultramarine-2
 Jumper 3pin
 
 
@@ -93114,11 +93128,11 @@ Jumper 3pin
 4
 3
 Ultramarine-2
-LED1608_reversible
+LED1608
 
 
 0
-4
+2
 2
 Ultramarine-2
 MF-NSMF
@@ -93132,7 +93146,7 @@ MJ-4PP-9
 
 
 0
-8
+4
 4
 Ultramarine-2
 MX-Kailh
@@ -93142,12 +93156,33 @@ MX-Kailh
 7
 2
 Ultramarine-2
+MX-hotswap
+
+
+0
+2
+2
+Ultramarine-2
 Micro_USB_Charging
 
 
 0
-6
+4
 2
+Ultramarine-2
+OLED
+
+
+0
+4
+4
+Ultramarine-2
+PTH_Flex_LED
+
+
+0
+1
+1
 Ultramarine-2
 R_variable
 
@@ -93156,19 +93191,33 @@ R_variable
 3
 3
 Ultramarine-2
-SK6812-mini_reversible
+SK-12D11VG3
 
 
 0
-8
+5
+3
+Ultramarine-2
+SK6812-mini
+
+
+0
+4
 4
 Ultramarine-2
-SOD-123_reversible
+SOD-123
 
 
 0
-4
 2
+2
+Ultramarine-2
+SOT89-5
+
+
+0
+0
+0
 Ultramarine-2
 TP4056
 
