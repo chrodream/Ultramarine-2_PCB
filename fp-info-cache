@@ -1,4 +1,4 @@
-22627912320258504
+22633192782589103
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93107,6 +93107,13 @@ BLE Micro Pro
 26
 26
 Ultramarine-2
+BTR_ITL
+
+
+0
+0
+0
+Ultramarine-2
 Battery
 
 
@@ -93161,6 +93168,13 @@ MX-hotswap
 
 0
 2
+2
+Ultramarine-2
+MX-hotswap_reversible
+
+
+0
+4
 2
 Ultramarine-2
 Micro_USB_Charging
