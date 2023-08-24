@@ -1,0 +1,15 @@
+(footprint "MX_TopPlate" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 -15 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp ecdfcb67-b936-4ac3-8c16-cb9ac078b3b8)
+  )
+  (fp_text value "MX_TopPlate" (at 0 -13.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ffb6c9af-03df-4f25-b73b-31cdd5e7869a)
+  )
+  (fp_rect (start -7 -7) (end 7 7)
+    (stroke (width 0.05) (type default)) (fill none) (layer "Edge.Cuts") (tstamp cb7a5d2a-9078-4a40-8b8a-4a3ee75a747b))
+  (fp_rect (start -9.5 -9.5) (end 9.5 9.5)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp da69d3c5-26e4-4a3f-9317-5ccd8ffa7101))
+)

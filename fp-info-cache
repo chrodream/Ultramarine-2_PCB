@@ -1,4 +1,4 @@
-22633192782589103
+22639971801766302
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93100,6 +93100,13 @@ igbt diode module
 25
 25
 Ultramarine-2
+5pin
+
+
+0
+5
+5
+Ultramarine-2
 BLE Micro Pro
 
 
@@ -93120,6 +93127,13 @@ Battery
 0
 2
 2
+Ultramarine-2
+Chrodream_logo
+
+
+0
+0
+0
 Ultramarine-2
 EC12
 
@@ -93156,6 +93170,13 @@ MJ-4PP-9
 4
 4
 Ultramarine-2
+MX TopPlate_2u
+
+
+0
+0
+0
+Ultramarine-2
 MX-Kailh
 
 
@@ -93176,6 +93197,13 @@ MX-hotswap_reversible
 0
 4
 2
+Ultramarine-2
+MX_TopPlate
+
+
+0
+0
+0
 Ultramarine-2
 Micro_USB_Charging
 
@@ -93216,7 +93244,7 @@ SK6812-mini
 
 
 0
-4
+8
 4
 Ultramarine-2
 SOD-123
