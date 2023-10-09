@@ -16,7 +16,7 @@
     (stroke (width 0.1) (type solid)) (layer "Eco1.User") (tstamp 4cff3d32-04d0-4dbd-88b9-fafa91730736))
   (fp_line (start -15.313 -5.53) (end -15.313 6.77)
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp 1eb59564-3b9f-415c-b5a8-15515bc8e150))
-  (fp_line (start -15.313 6.77) (end -7.013 6.77)
+  (fp_line (start -15.313 6.77) (end -7 6.77)
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp 8f9e89d7-4896-48f1-91ab-0efbe8301d89))
   (fp_line (start -7 -7) (end -7 -5.53)
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp d01aa680-74b1-4c6a-b448-f08d7a02cb5c))
