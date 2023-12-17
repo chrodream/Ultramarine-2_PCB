@@ -17,6 +17,6 @@
     (stroke (width 0.1) (type default)) (fill none) (layer "F.Fab") (tstamp 1df8e4eb-6eaf-45d8-9183-061797febec9))
   (pad "" thru_hole oval (at -3.55 0) (size 1.2 1.7) (drill oval 0.6 1.1) (layers "*.Cu" "*.Mask") (tstamp 680bb371-521d-401c-bfc9-4f555e538f67))
   (pad "" thru_hole oval (at 3.55 0) (size 1.2 1.7) (drill oval 0.6 1.1) (layers "*.Cu" "*.Mask") (tstamp 923dac5f-d3eb-4842-aad5-8b84c4f03218))
-  (pad "1" smd roundrect (at -1.3 -5.9) (size 0.9 4.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a2b063f3-75ee-4f10-88a9-8d70ad441ccb))
-  (pad "2" smd roundrect (at 1.3 -5.9) (size 0.9 4.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 73c21358-8e9f-4f14-ad03-c44e29025134))
+  (pad "1" smd roundrect (at -1.3 -5.9) (size 0.9 4.5) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25) (tstamp a2b063f3-75ee-4f10-88a9-8d70ad441ccb))
+  (pad "2" smd roundrect (at 1.3 -5.9) (size 0.9 4.5) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25) (tstamp 73c21358-8e9f-4f14-ad03-c44e29025134))
 )

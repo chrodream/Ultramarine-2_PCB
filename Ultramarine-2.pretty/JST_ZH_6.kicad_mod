@@ -15,8 +15,8 @@
     (render_cache "1" 0
       (polygon
         (pts
-          (xy -3.761479 2.2)          (xy -3.761479 1.292638)          (xy -3.758792 1.291173)          (xy -3.515282 1.433322)
-          (xy -3.515282 1.320726)          (xy -3.761479 1.172959)          (xy -3.877006 1.172959)          (xy -3.877006 2.2)
+          (xy -3.761479 2.2)          (xy -3.761479 1.292637)          (xy -3.758792 1.291172)          (xy -3.515282 1.433321)
+          (xy -3.515282 1.320725)          (xy -3.761479 1.172958)          (xy -3.877006 1.172958)          (xy -3.877006 2.2)
         )
       )
     )
@@ -27,8 +27,8 @@
     (render_cache "1" 0
       (polygon
         (pts
-          (xy -3.73852 2.2)          (xy -3.73852 1.292638)          (xy -3.741207 1.291173)          (xy -3.984717 1.433322)
-          (xy -3.984717 1.320726)          (xy -3.73852 1.172959)          (xy -3.622993 1.172959)          (xy -3.622993 2.2)
+          (xy -3.73852 2.2)          (xy -3.73852 1.292637)          (xy -3.741207 1.291172)          (xy -3.984717 1.433321)
+          (xy -3.984717 1.320725)          (xy -3.73852 1.172958)          (xy -3.622993 1.172958)          (xy -3.622993 2.2)
         )
       )
     )
@@ -41,7 +41,7 @@
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp d410b6f9-c34e-4578-aa5c-2ff40e802403))
   (fp_line (start 6.5 4.75) (end 6.5 -1.38)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 35cd3451-04d2-488e-817c-bd944c6177a6))
-  (pad "1" thru_hole roundrect (at -3.75 0) (size 1.3 1.75) (drill 0.75) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp ba0c2593-bed2-46a4-89c3-12cf8801d445))
+  (pad "1" thru_hole roundrect (at -3.75 0) (size 1.2 1.75) (drill 0.75) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp ba0c2593-bed2-46a4-89c3-12cf8801d445))
   (pad "2" thru_hole oval (at -2.25 0.02) (size 1.2 1.75) (drill 0.75) (layers "*.Cu" "*.Mask") (tstamp 95cb7bc4-6b19-479b-b355-76102d2f6fde))
   (pad "3" thru_hole oval (at -0.75 0) (size 1.2 1.75) (drill 0.75) (layers "*.Cu" "*.Mask") (tstamp 2c57f8dd-d58d-4aeb-ad94-f2d1d412ed16))
   (pad "4" thru_hole oval (at 0.75 0.02) (size 1.2 1.75) (drill 0.75) (layers "*.Cu" "*.Mask") (tstamp c8261501-3c65-4c02-8b56-49b1911da479))

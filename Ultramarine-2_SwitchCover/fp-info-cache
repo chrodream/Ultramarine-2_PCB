@@ -1,4 +1,4 @@
-22646771675874076
+22650179478467917
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93142,6 +93142,13 @@ EC12
 7
 6
 Ultramarine-2
+JST_ZH_6
+
+
+0
+6
+6
+Ultramarine-2
 Jumper 3pin
 
 
@@ -93275,12 +93282,19 @@ TP4056
 6
 6
 Ultramarine-2
+TVAF06
+
+
+0
+4
+2
+Ultramarine-2
 Tactlie_Switch
 
 
 0
-0
-0
+2
+2
 Ultramarine-2
 Ultramarine-2_F
 
